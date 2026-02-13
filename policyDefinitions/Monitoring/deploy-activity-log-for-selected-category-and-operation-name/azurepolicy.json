@@ -2,8 +2,8 @@
   "name": "1a30544f-d89d-42ee-9e74-7f8176772c3d",
   "type": "Microsoft.Authorization/policyDefinitions",
   "properties": {
-    "displayName": "Deploy Activity Log Alert for the seleccted category and operation name",
-    "description": "Deploy Activity Log Alert for the seleccted category and operation name",
+    "displayName": "Deploy Activity Log Alert for the selected category and operation name",
+    "description": "Deploy Activity Log Alert for the selected category and operation name",
     "metadata": {
       "version": "1.0.0",
       "category": "Monitoring"
